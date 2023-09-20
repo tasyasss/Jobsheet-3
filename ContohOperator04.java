@@ -12,6 +12,7 @@ public class ContohOperator04 {
 
         int z = 10;
         System.out.println();
+        
         System.out.println(x < z);
         System.out.println(y == x);
         System.out.println(y <= x);
