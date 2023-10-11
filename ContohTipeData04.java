@@ -5,7 +5,7 @@ public class ContohTipeData04 {
         char golonganDarah = 'A';
         short jumlahPenduduk = 1025;
         float suhu = 60.5f;
-        double berat = 0.4544;
+        double berat = 0.123456789;
         long saldo = 1599920932;
         int angkaDesimal = 0x10;
         short jarak = 1000;

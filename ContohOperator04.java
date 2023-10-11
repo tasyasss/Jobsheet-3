@@ -18,11 +18,10 @@ public class ContohOperator04 {
         System.out.println(y <= x);
         System.out.println(y <= x && x < z || y == x);
 
-        // bitwise ^
-        int i = z ^ x;
+        int i = z ^ x; // bitwise ^
         System.out.println("\nnilai i adalah " + i);
 
-        i %= 4;
+        i %= 4; //modulus
         System.out.println("\nnilai i setelah operasi i %= 4 adalah " + i);
     }
 }

@@ -5,7 +5,7 @@ public class Segitiga04 {
     public static void main(String[] args) {
         int  alas, tinggi;
         float luas;
-
+            
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Masukkan alas: ");
             alas = sc.nextInt(); 
